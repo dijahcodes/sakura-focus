@@ -1,0 +1,6 @@
+{
+  "name": "SakuraFocus - macOS Pink Glass To-Do & Pomodoro",
+  "description": "A translucent pink macOS desktop application combining an intuitive to-do task planner with an integrated Pomodoro focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
